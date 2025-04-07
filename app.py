@@ -132,7 +132,7 @@ def main():
     
 
 # Configure Gemini API
-    genai.configure(api_key="AIzaSyCxTWQNEYYpP_3AepcSqZcPDvhCy0hlMtk")
+    genai.configure(api_key="your-api-key")
     
     
     generation_config = {
